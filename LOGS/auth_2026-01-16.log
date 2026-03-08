@@ -1,0 +1,96 @@
+[2026-01-16T08:16:02.932Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T08:16:02.932Z"
+}
+[2026-01-16T08:24:00.103Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T08:24:00.103Z"
+}
+[2026-01-16T08:24:02.391Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T08:24:02.391Z"
+}
+[2026-01-16T08:37:42.654Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T08:37:42.654Z"
+}
+[2026-01-16T08:40:19.712Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T08:40:19.712Z"
+}
+[2026-01-16T08:45:48.213Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T08:45:48.213Z"
+}
+[2026-01-16T08:47:22.186Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T08:47:22.186Z"
+}
+[2026-01-16T08:55:59.178Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T08:55:59.178Z"
+}
+[2026-01-16T08:58:50.517Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T08:58:50.517Z"
+}
+[2026-01-16T09:03:52.287Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T09:03:52.287Z"
+}
+[2026-01-16T09:06:48.203Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T09:06:48.203Z"
+}
+[2026-01-16T09:19:53.421Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T09:19:53.421Z"
+}
+[2026-01-16T10:00:38.367Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T10:00:38.367Z"
+}
+[2026-01-16T12:01:34.364Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T12:01:34.364Z"
+}
+[2026-01-16T12:03:34.246Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T12:03:34.246Z"
+}
+[2026-01-16T12:26:54.515Z] [AUTH] {
+  "username": "system",
+  "action": "login",
+  "ipAddress": "127.0.0.1",
+  "timestamp": "2026-01-16T12:26:54.515Z"
+}
